@@ -1,0 +1,29 @@
+/** ---------------------------------- *
+ * Flex Direction
+ * ----------------------------------- */
+
+
+.row-reverse {
+  flex-direction: -webkit-row-reverse;
+  flex-direction: -moz-row-reverse;
+  flex-direction: -ms-row-reverse;
+  flex-direction: row-reverse;
+}
+
+.column {
+  flex-direction: -webkit-column;
+  flex-direction: -moz-column;
+  flex-direction: -ms-column;
+  flex-direction: column;
+}
+
+.column-reverse {
+  flex-direction: -webkit-column-reverse;
+  flex-direction: -moz-column-reverse;
+  flex-direction: -ms-column-reverse;
+  flex-direction: column-reverse;
+}
+
+
+
+ 

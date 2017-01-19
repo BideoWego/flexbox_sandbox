@@ -1,0 +1,28 @@
+/** ---------------------------------- *
+ * Basic Flexbox
+ * ----------------------------------- */
+
+
+.flex-container {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: flex;
+  width: 100%;
+  background-color: lightgrey;
+}
+
+.flex-square {
+  background-color: cornflowerblue;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+
+.flex-item {
+  background-color: cornflowerblue;
+  width: 100px;
+  margin: 10px;
+}
+
+ 

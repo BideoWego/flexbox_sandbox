@@ -1,0 +1,21 @@
+/** ---------------------------------- *
+ * Flex Order
+ * ----------------------------------- */
+
+.flex-first {
+  -webkit-order: -1;
+  -moz-order: -1;
+  -ms-order: -1;
+  order: -1;
+}
+
+.flex-last {
+  -webkit-order: 1;
+  -moz-order: 1;
+  -ms-order: 1;
+  order: 1; 
+}
+
+
+
+

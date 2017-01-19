@@ -1,0 +1,35 @@
+/** ---------------------------------- *
+ * Styles
+ * ----------------------------------- */
+
+body {
+  margin-bottom: 256px;
+}
+
+.height {
+  height: 500px; 
+}
+.width {
+  width: 768px;
+}
+
+/* Direction */
+
+.rtl {
+  direction: rtl;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
